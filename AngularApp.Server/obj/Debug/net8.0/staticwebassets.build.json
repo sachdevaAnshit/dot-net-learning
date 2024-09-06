@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "+v+yfCgmfw5TwTQUzYp9HdAlMAoCvFPaTTzCxdV8NbU=",
+  "Source": "AngularApp.Server",
+  "BasePath": "_content/AngularApp.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\2064661\\OneDrive - Cognizant\\Desktop\\DotNetLearning\\AngularApp\\angularapp.client\\angularapp.client.esproj",
+      "Version": 2,
+      "Source": "angularapp.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
